@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Exercicios3\quatro\bin\Debug\net5.0\quatro.exe
+C:\Users\Pichau\Desktop\Exercicios3\quatro\bin\Debug\net5.0\quatro.deps.json
+C:\Users\Pichau\Desktop\Exercicios3\quatro\bin\Debug\net5.0\quatro.runtimeconfig.json
+C:\Users\Pichau\Desktop\Exercicios3\quatro\bin\Debug\net5.0\quatro.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Exercicios3\quatro\bin\Debug\net5.0\quatro.dll
+C:\Users\Pichau\Desktop\Exercicios3\quatro\bin\Debug\net5.0\ref\quatro.dll
+C:\Users\Pichau\Desktop\Exercicios3\quatro\bin\Debug\net5.0\quatro.pdb
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\quatro.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\quatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\quatro.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\quatro.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\quatro.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\quatro.dll
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\ref\quatro.dll
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\quatro.pdb
+C:\Users\Pichau\Desktop\Exercicios3\quatro\obj\Debug\net5.0\quatro.genruntimeconfig.cache

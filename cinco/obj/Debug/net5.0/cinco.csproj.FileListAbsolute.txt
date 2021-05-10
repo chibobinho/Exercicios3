@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Exercicios3\cinco\bin\Debug\net5.0\cinco.exe
+C:\Users\Pichau\Desktop\Exercicios3\cinco\bin\Debug\net5.0\cinco.deps.json
+C:\Users\Pichau\Desktop\Exercicios3\cinco\bin\Debug\net5.0\cinco.runtimeconfig.json
+C:\Users\Pichau\Desktop\Exercicios3\cinco\bin\Debug\net5.0\cinco.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Exercicios3\cinco\bin\Debug\net5.0\cinco.dll
+C:\Users\Pichau\Desktop\Exercicios3\cinco\bin\Debug\net5.0\ref\cinco.dll
+C:\Users\Pichau\Desktop\Exercicios3\cinco\bin\Debug\net5.0\cinco.pdb
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\cinco.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\cinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\cinco.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\cinco.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\cinco.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\cinco.dll
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\ref\cinco.dll
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\cinco.pdb
+C:\Users\Pichau\Desktop\Exercicios3\cinco\obj\Debug\net5.0\cinco.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Exercicios3\sete\bin\Debug\net5.0\sete.exe
+C:\Users\Pichau\Desktop\Exercicios3\sete\bin\Debug\net5.0\sete.deps.json
+C:\Users\Pichau\Desktop\Exercicios3\sete\bin\Debug\net5.0\sete.runtimeconfig.json
+C:\Users\Pichau\Desktop\Exercicios3\sete\bin\Debug\net5.0\sete.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Exercicios3\sete\bin\Debug\net5.0\sete.dll
+C:\Users\Pichau\Desktop\Exercicios3\sete\bin\Debug\net5.0\ref\sete.dll
+C:\Users\Pichau\Desktop\Exercicios3\sete\bin\Debug\net5.0\sete.pdb
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\sete.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\sete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\sete.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\sete.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\sete.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\sete.dll
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\ref\sete.dll
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\sete.pdb
+C:\Users\Pichau\Desktop\Exercicios3\sete\obj\Debug\net5.0\sete.genruntimeconfig.cache

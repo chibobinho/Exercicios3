@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\seis.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\seis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\seis.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\seis.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\seis.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exercicios3\seis\bin\Debug\net5.0\seis.exe
+C:\Users\Pichau\Desktop\Exercicios3\seis\bin\Debug\net5.0\seis.deps.json
+C:\Users\Pichau\Desktop\Exercicios3\seis\bin\Debug\net5.0\seis.runtimeconfig.json
+C:\Users\Pichau\Desktop\Exercicios3\seis\bin\Debug\net5.0\seis.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Exercicios3\seis\bin\Debug\net5.0\seis.dll
+C:\Users\Pichau\Desktop\Exercicios3\seis\bin\Debug\net5.0\ref\seis.dll
+C:\Users\Pichau\Desktop\Exercicios3\seis\bin\Debug\net5.0\seis.pdb
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\seis.dll
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\ref\seis.dll
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\seis.pdb
+C:\Users\Pichau\Desktop\Exercicios3\seis\obj\Debug\net5.0\seis.genruntimeconfig.cache
